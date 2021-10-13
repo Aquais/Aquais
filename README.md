@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Aquais
+- 👀 I’m interested in Web development
+- 🌱 I’m currently working with EspoCRM, Symfony5, jQuery, SCSS..
+- 📫 How to reach me ? Just send me a message on my mail : tommysauceyduhamel@gmail.com
